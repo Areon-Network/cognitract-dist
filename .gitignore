@@ -1,0 +1,5 @@
+/target
+.solc/bin/*.bin
+_testData.go
+.DS_Store
+AreonScanEndpoint.go
