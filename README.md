@@ -8,5 +8,6 @@
 ## Usage
 Tip: `-t or --testnet` flag was used in order to run it on Areon Testnet. You can simply omit it in order to verify a contract on Areon Mainnet.
 
-https://github.com/Areon-Network/cognitract/assets/80427016/24e2f66f-ed7e-4d3d-b315-61711713ebc3
+
+https://github.com/user-attachments/assets/b3babe21-c53d-48f9-9ab8-1b81437997b2
 
